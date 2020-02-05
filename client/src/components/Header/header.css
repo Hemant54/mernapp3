@@ -1,0 +1,8 @@
+/* css file */
+.disabled-link {
+  pointer-events: none;
+}
+
+a[disabled] {
+    pointer-events: none;
+}

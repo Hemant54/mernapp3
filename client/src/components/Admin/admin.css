@@ -1,0 +1,22 @@
+.register-form-container {
+	padding: 20px 30px;
+	width: 50%;
+	border: 2px solid #26B897;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+
+.register-heading {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.form-control {
+	margin: 15px 10px;
+	width: 100%;
+}
+
+.multiple-select {
+	width: auto;
+	min-width: 150px;
+}
